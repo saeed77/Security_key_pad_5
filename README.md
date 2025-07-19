@@ -1,1 +1,1 @@
-### A robust and configurable security keypad system build around ATmega 32 microcontroller , with all hardware design meticulously crafted in Altium designer . ideal for custom embedded access control solutions .
+### A robust and configurable security keypad system build around ATmega 32 microcontroller , with all hardware design meticulously crafted in Proteus . ideal for custom embedded access control solutions .
